@@ -1,5 +1,7 @@
 # Eventex
 
+[![Build Status](https://travis-ci.org/jucelinoalves/wttd.svg?branch=master)](https://travis-ci.org/jucelinoalves/wttd)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
@@ -10,6 +12,7 @@
 6. Execute os testes.
 
 ```console
+            
 git clone https://github.com/jucelinoalves/wttd.git
 cd wttd
 python -m venv .wttd
