@@ -13,7 +13,7 @@
 git clone https://github.com/jucelinoalves/wttd.git
 cd wttd
 python -m venv .wttd
-source .wttd/Scripts\activate
+source .wttd/Scripts/activate
 pip install -r requirements.txt
 cp contrib/env-sample .env
 python manage.py test
