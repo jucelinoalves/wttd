@@ -1,6 +1,7 @@
 # Eventex
 
 [![Build Status](https://travis-ci.org/jucelinoalves/wttd.svg?branch=master)](https://travis-ci.org/jucelinoalves/wttd)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e20baeaa07578d353f7f/maintainability)](https://codeclimate.com/github/jucelinoalves/wttd/maintainability)
 
 ## Como desenvolver?
 
